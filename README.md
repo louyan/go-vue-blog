@@ -33,7 +33,7 @@ MYSQL数据库名称
 
 >bee run -gendoc=true -downdoc=true
 
--gendoc=true  生成swagger接口文档
+-gendoc=true  生成swagger接口文档，
 -downdoc=true  下载swagger自动化接口文档器
 
 >http://localhost:8081/swagger/
