@@ -1,0 +1,5 @@
+﻿cnpm i --save vue-router axios sass-loader node-sass  popmotion file-loader github-markdown-css marked prismjs moment marked
+
+:::
+axios sass-loader node-sass moment marked highlight.js
+
